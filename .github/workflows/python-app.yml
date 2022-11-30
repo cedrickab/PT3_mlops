@@ -13,9 +13,6 @@ permissions:
   contents: read
 
 
-pool:
-  vmImage: 'ubuntu-latest'
-
 jobs:
 
   build:
